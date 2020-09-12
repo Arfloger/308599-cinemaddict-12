@@ -1,7 +1,7 @@
 # Личный проект «Киноман» [![Build status][travis-image]][travis-url]
 
 * Студент: [Ксения Мельникова](https://up.htmlacademy.ru/ecmascript/12/user/308599).
-* Наставник: `Неизвестно`.
+* Наставник: `...`.
 
 ---
 
